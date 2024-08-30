@@ -1,0 +1,50 @@
+[
+    {
+        "client": "Entreprise A",
+        "secteur": "Finance",
+        "description": "Optimisation des processus de trading",
+        "budget": "50 000 EUR",
+        "objectifs": "Réduire les coûts de transaction de 20%",
+        "délais": "3 mois"
+    },
+    {
+        "client": "Entreprise B",
+        "secteur": "Technologie",
+        "description": "Développement d'une application mobile",
+        "budget": "75 000 EUR",
+        "objectifs": "Lancer une nouvelle application sur le marché",
+        "délais": "6 mois"
+    },
+    {
+        "client": "Entreprise C",
+        "secteur": "Santé",
+        "description": "Amélioration des systèmes de gestion hospitalière",
+        "budget": "60 000 EUR",
+        "objectifs": "Optimiser les processus de gestion",
+        "délais": "4 mois"
+    },
+    {
+        "client": "Entreprise D",
+        "secteur": "Éducation",
+        "description": "Création d'une plateforme d'apprentissage en ligne",
+        "budget": "55 000 EUR",
+        "objectifs": "Augmenter l'accessibilité des cours",
+        "délais": "5 mois"
+    },
+    {
+        "client": "Entreprise E",
+        "secteur": "Énergie",
+        "description": "Analyse des données de consommation d'énergie",
+        "budget": "65 000 EUR",
+        "objectifs": "Réduire les coûts d'énergie",
+        "délais": "2 mois"
+    },
+    {
+        "client": "Entreprise F",
+        "secteur": "Transport",
+        "description": "Optimisation des itinéraires de livraison",
+        "budget": "70 000 EUR",
+        "objectifs": "Réduire le temps de livraison",
+        "délais": "3 mois"
+    }
+]
